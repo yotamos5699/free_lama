@@ -2,6 +2,7 @@ import React, { useRef, useState, useEffect } from "react";
 import "./App.css";
 import Select from "react-select";
 import { devState, colorStyles, Freelancers } from "./stylesNmock";
+import Home from "./components/Map";
 export default function App() {
   const [renderControler, setRenderController] = useState({
     renderDevState: true,
@@ -63,6 +64,7 @@ export default function App() {
               חזור
             </button>
           </div>
+          <Home />
         </div>
       )}
       {renderControler.renderFreeLancers && (
