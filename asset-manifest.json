@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/free_lama/static/css/main.c4ac62db.css",
-    "main.js": "/free_lama/static/js/main.2200555d.js",
+    "main.css": "/free_lama/static/css/main.30d1506e.css",
+    "main.js": "/free_lama/static/js/main.d5130051.js",
     "index.html": "/free_lama/index.html",
-    "main.c4ac62db.css.map": "/free_lama/static/css/main.c4ac62db.css.map",
-    "main.2200555d.js.map": "/free_lama/static/js/main.2200555d.js.map"
+    "main.30d1506e.css.map": "/free_lama/static/css/main.30d1506e.css.map",
+    "main.d5130051.js.map": "/free_lama/static/js/main.d5130051.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ac62db.css",
-    "static/js/main.2200555d.js"
+    "static/css/main.30d1506e.css",
+    "static/js/main.d5130051.js"
   ]
 }
