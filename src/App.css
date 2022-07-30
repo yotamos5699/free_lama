@@ -1,4 +1,13 @@
-.App {
+.cas-nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cas-nav button {
+  height: 45px;
+  width: 33%;
+}
+/* .App {
   text-align: center;
 }
 
@@ -7,11 +16,6 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
