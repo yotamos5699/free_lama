@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/free_lama.git/static/css/main.c4ac62db.css",
+    "main.js": "/free_lama.git/static/js/main.2200555d.js",
+    "index.html": "/free_lama.git/index.html",
+    "main.c4ac62db.css.map": "/free_lama.git/static/css/main.c4ac62db.css.map",
+    "main.2200555d.js.map": "/free_lama.git/static/js/main.2200555d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ac62db.css",
+    "static/js/main.2200555d.js"
+  ]
+}
